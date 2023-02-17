@@ -1,0 +1,24 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatchAll": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/providingperspectives/Test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/providingperspectives/Test-api/issues"
+  },
+  "homepage": "https://github.com/providingperspectives/Test-api#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
